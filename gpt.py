@@ -9,7 +9,7 @@ Archivo de ejecucion para preguntas a chat GPT
 
 """
 
-openai.api_key = ("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")
+openai.api_key = ("YOUR-API-KEY")
 
 user_message = "Cuéntame una historia interesante."
 response = openai.ChatCompletion.create(
