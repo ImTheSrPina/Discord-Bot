@@ -9,7 +9,7 @@ Asi que aqui estamos, entonces, pense en desarrollar el bot en javascript con no
 hizo algo complejo, tal vez despues intente desarrollar otro bot mas sencillo con este lenguaje.
 
 Cuando vi que tambien podia usar python, inmediatamente cambie a este lenguaje, ademas, estaba un poco familizarizado
-con este lenguaje.
+con este.
 
 
 
@@ -28,7 +28,7 @@ APIs
 
 Use diversas APIs para dar vida al bot, entre ellas se encuentran APIs de imagenes animé SFW y NSWF, porque, vamos, las
 monas chinas venden; tambien inclui una API de perros, y por ultimo, la API de chatGPT, que en mi opinion, tiene
-un alto potencial.
+un alto potencial, pero es de usos limitados asi que se quedo inutil ahora...
 
 Aqui dejo el enlace a las API que use por si deseas tambien darle un uso:
 
@@ -39,16 +39,6 @@ Aqui dejo el enlace a las API que use por si deseas tambien darle un uso:
 - https://platform.openai.com/docs/guides/gpt
 
 
-
-COMO USAR CHATGPT
-
-Para poder usar chatGPT, es necesario instalar su propia libreria, dentro de la propia pagina de chatGPT se encuentra como
-hacerlo, pero por si acaso, se instala usando "pip install openai".
-Para poder usar la API de chatGPT, debes conseguir tu API key, de igual forma, se consige dentro de la pagina de chatGPT.
-La api tiene solicitudes limitadas :(
-
-
-
 HOSTEAR BOT
 
 Es dificil encontrar un host para tu bot, pero encontre uno que estoy usando actualmente.
@@ -56,7 +46,7 @@ Su nombre es Waifly, tambien dejo el enlace por si deseas usar dicho host:
 
 https://waifly.com/
 
-El host ya no esta disponible :(
+El host ya no esta disponible pipipipipipi :(
 
 
 
